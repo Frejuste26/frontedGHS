@@ -1,5 +1,5 @@
 import { NavLink } from 'react-router-dom';
-import { Home, FileText, PlusCircle, CheckCircle, Users, Settings, Bell, LogOut } from 'lucide-react';
+import { Home, FileText, PlusCircle, CheckCircle, Users, Settings, LogOut } from 'lucide-react';
 
 const navigation = [
   { name: 'Tableau de bord', href: '/dashboard', icon: Home },
